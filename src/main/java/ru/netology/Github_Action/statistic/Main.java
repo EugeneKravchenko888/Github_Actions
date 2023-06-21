@@ -1,4 +1,4 @@
-package ru.netology.javaqa;
+package ru.netology.Github_Action.statistic;
 
 public class Main {
     public static void main(String[] args) {
